@@ -158,7 +158,7 @@ FlowRouter.route("/", {
    ```
    Hier stel je de transitie vast. Deze moet echter nog wel gedefinieerd worden. Dit doe je op de volgende manier:
    ```
-   FlowTransition.addTransition({
+ FlowTransition.addTransition({
   section: 'body',
   from: 'home',
   to: 'article',
@@ -199,9 +199,9 @@ De bovenstaande transitie zorgt er voor dat de nieuwe pagina van boven naar binn
 ## afsluiting
 Doordat FlowTransition gebruik maakt van CSS properties opent het een wereld van mogelijkheden voor paginatransities. Daarnaast is het toepassen ook erg gemakkelijk, en dus goed toe te passen met prototypes.
 
-  ### bronnen:
-  * https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&ved=0ahUKEwjtop72xt_NAhUGPxQKHQCxAmYQFghVMAY&url=https%3A%2F%2Fwww.smashingmagazine.com%2F2016%2F07%2Fimproving-user-flow-through-page-transitions%2F&usg=AFQjCNHH3nNxLIYxlo6ov7LMpnaO-UGIeQ&sig2=qlEQp9eymL3hdDRYL_IYPA&bvm=bv.126130881,d.ZGg&cad=rja
-  * https://libraries.io/meteor/mcissel:flow-transition
-  * http://velocityjs.org/
- * https://material.google.com/motion/material-motion.html#material-motion-why-does-motion-matter
+### bronnen:
+* https://www.smashingmagazine.com/2016/07/improving-user-flow-through-page-transitions/
+* https://libraries.io/meteor/mcissel:flow-transition
+* http://velocityjs.org/
+* https://material.google.com/motion/material-motion.html#material-motion-why-does-motion-matter
 * https://material.google.com/motion/material-motion.html

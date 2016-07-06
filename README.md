@@ -21,7 +21,7 @@ Git wordt gebruikt om met meerdere developers aan een project te werken. Niet al
 
 Looklive maakt gebruik van Gulp en Grunt als task managers. Dit scheelt een hoop routine werk. Een aantal tasks die Donny heeft toegevoegd aan zijn Gulp is bijvoorbeeld het automatisch omzetten van sass naar css, browser prefixes toevoegen en svg naar icon font. Een aantal gulp tasks zijn er ook om de developers te dwingen zich aan een bepaalde schrijfstijl te houden.Zo zijn er afspraken gemaakt waar je je aan moet houden, zoals het organiseren van je code en het aantal tabs voor indentatie, zodat de code voor iedereen leesbaar blijft.
 
-## #WN6 Peter-Paul Koch (PPK)
+## #WN4 Peter-Paul Koch (PPK)
 Peter Paul Koch is een developer en designer die zich specialiseert in web technologies, mobile en W3C. Tijdens de weekly nerd spreekt hij over wat hij vind dat er mis is met het web. Volgens PPK is er een viervoudig probleem in de webdevelopment. 
 
 1. **Web developers willen native apps namaken.**
@@ -39,19 +39,19 @@ Een willen dus eigenlijk niets anders.
 
 Een perfecte Javascripter maakt volgens PPK maar van 1 grote library per project gebruik, en kiest enkel voor frameworks en libraries als hij deze volledig kent, en deze ook echt nodig zijn.
 
-## #WN8 Ron Kersic (ING)
+## #WN5 Ron Kersic (ING)
 De weekly nerd van Ron Kersic is degene die mij het meest bij is gebleven. 
 Ik heb zeker 2 minuten heel fanatiek met een aantekeningenboek in de aanslag gezeten, maar was al snel zo geboeid door de passie en enthousiasme die hij in zijn verhaal naar voren bracht, dat ik totaal vergeten ben om ook maar een letter op het papier te zetten.
 
 Ron Kersic sprak onder andere over menselijke interactie met technologie. Technologie verdwijnt namelijk langzaam aan naar de achtergrond, en verwikkeld zich steeds meer in ons leven. Een interessante tijd om in dit gebied aan het werk te zijn, vind Ron Kersic. Want, nu wordt het leuk. Nu kun je de technologie ontwikkelen voor de gebruiker, en niet voor het feit dat ‘het werkt’.
 
-## WN10 12 Arthur Van Schravendijk
+## WN6 12 Arthur Van Schravendijk
 Arthur van Schravendijk, een CMD student die zijn stage heeft gelopen bij Mediabunker en nu bij Active Collective werkt. Hij kwam tijdens zijn Weekly Nerd vertellen over een IoT project, een keukenkas waarbij de plant volledig automatisch verzorgd werd. De plant kreeg licht en water op het moment dat daar behoefte aan was.
 
 Hij gaf voornamelijk tips over hoe de data op te slaan, wat er allemaal mis kan gaan, en het last hebben van slechte sensoren.
 
 
-## #WN11 Guido Bouman (Q42)
+## #WN7 Guido Bouman (Q42)
 Guido Bouman is interaction Engineer bij Q42, een bedrijf dat erg veel genoemd wordt tijdens de minor. Guido kwam vertellen over Q42, haar nieuwe logo, wat een interaction Engineer nou eigenlijk is en het hacken van de koffiemachine.
 
 Q42 maakt alles met code, zo ook het logo. Ze gebruiken javascript, native, scala en C#. Q42 heeft veel grote opdrachtgevers, zoals het Rijksmuseum (dat vaak als voorbeeld wegens de UX is gebruikt tijdens CMD), philips hue, de staatsloterij, design museum in Londen en de IKEA. 

@@ -1,4 +1,9 @@
+# Artikelen
+* [Maintainable CSS](https://github.com/roosness/weeklyNerds/blob/master/artikel2/readme.md)
+* [Meteor Route Transities](https://github.com/roosness/weeklyNerds/tree/master/artikel1)
+* Komt morgen...
 # Weekly Nerds
+_Nog niet alle weekly nerds zijn af, die komen morgen (7 juli)_
 
 ## #WN1: Drububu
 Arjan Westerdiep mocht het spits afbijten bij de eerste Weekly Nerd. Arjan Westerdiep, die zijn werk publiceert onder de naam Drububu, begon zijn carrière met het creëren van UBBU pixel  art, geïnspireerd door ABBA. Drububu breid zijn projecten steeds verder uit, volgens hem is de kunst van het ontwerpen kritisch naar je eigen werk kijken, en zodra iets een routine wordt, moet je je verder ontwikkelen.

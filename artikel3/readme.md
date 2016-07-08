@@ -1,6 +1,6 @@
-# De 7 dingen waar ik het meeste van heb geleerd tijdens everything web
+# De 5 dingen waar ik het meeste van heb geleerd tijdens everything web
 
-De minor 'Everything Web' bijna afgerond. Tijd om [emotionele achtergrondmuziek](https://www.youtube.com/watch?v=F2xoJoO_XcY) te draaien, je beeldscherm op zwart/wit in te stellen en terug te denken aan alles wat er wel niet voorbij is gekomen. Alles? Nee, maar zeven. Zeven is een magisch getal, en elk artikel op Facebook heeft het over "De 6 dingen die". Eentje meer dus.
+De minor 'Everything Web' bijna afgerond. Tijd om [emotionele achtergrondmuziek](https://www.youtube.com/watch?v=F2xoJoO_XcY) te draaien, je beeldscherm op zwart/wit in te stellen en terug te denken aan alles wat er wel niet voorbij is gekomen. Alles? Nee, maar zeven. Zeven is een magisch getal.
 
 ## #1: Promises
 Promises! Als iemand die nog maar net haar eerste AJAX call had gemaakt waren promises echt een uitkomst. Het mij dan ook heel veel pijn en moeite gescheeld als ik er net iets eerder over na had gedacht om "Promises" op google in te tikken. Het hele async-sync fenomeen was ook nog nooit in mijn hoofd opgekomen. Superfijne oplossing dus!

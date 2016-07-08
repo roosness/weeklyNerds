@@ -1,9 +1,4 @@
-# Artikelen
-* [Maintainable CSS](https://github.com/roosness/weeklyNerds/blob/master/artikel2/readme.md)
-* [Meteor Route Transities](https://github.com/roosness/weeklyNerds/tree/master/artikel1)
-* Komt morgen...
 # Weekly Nerds
-_Nog niet alle weekly nerds zijn af, die komen morgen (7 juli)_
 
 ## #WN1: Drububu
 Arjan Westerdiep mocht het spits afbijten bij de eerste Weekly Nerd. Arjan Westerdiep, die zijn werk publiceert onder de naam Drububu, begon zijn carrière met het creëren van UBBU pixel  art, geïnspireerd door ABBA. Drububu breid zijn projecten steeds verder uit, volgens hem is de kunst van het ontwerpen kritisch naar je eigen werk kijken, en zodra iets een routine wordt, moet je je verder ontwikkelen.
@@ -65,4 +60,32 @@ Maar, het is ze toch gelukt. In theorie zou er zelfs vanaf de PC een kopje koffi
 De hack wordt nu gebruikt om RT te tracken hoeveel kopjes koffie er gedronken worden.
 
 Het hacken van een koffieautomaat is toch al jaren een kleine droom geweest. Wakker worden met de geur van koffie is een goed begin van de dag, en wie weet heeft Q42 wel een duw in de rug gegeven voor een project voor de zomer.
+
+## WN8 Github
+Op het moment dat wij bij Github langs mochten komen, waren ze net 2 weken gesetteld in Amsterdam. Het stond overal nog vol met dozen, maar er werd duidelijk al hard gewerkt.
+De eerste helft van de Weekly Nerd werd er vooral uitgelegd over hoe Github werkt, wat een prettige uitleg was. 
+
+Wat mij opviel, maar eigenlijk niet verbaasde, is dat Github zelf ook gebruik maakt van Github. Eigenlijk ontwerpen ze dus haar eigen tool. Daarnaast werd het snel duidelijk dat het bij Github draait om samenwerking. Dat je ongeacht kennis, afstand of taalbarrieres met elkaar aan hetzelfde project kunt werken, zelfs als je elkaar nog nooit ontmoet hebt. 
+
+Het enige wat Github nog in de weg staat is het tijdsverschil. Wie weet is dat een feature-branch voor 2017?
+## #WN9 Thijs van der Vossen
+> YOU SHOULD HIRE ME BECAUSE I LIKE MONEY AND YOU LIKE OUTSTANDING WORK DELIVERED ON TIME.
+
+De quote van de website van Thijs van der Vossen was een goed begin van zijn weekly nerd. Onvoorbereid mochten we vragen op hem afvuren. Een heel interessant college, wat ook over de realistische kanten van freelancer zijn ging. NDA's, uurlonen en contracten. Dingen waar eigenlijk binnen de studie nog niet veel over gesproken  wordt, maar wel belangrijk om daar iemand over te horen praten die er dagelijks mee te maken heeft. 
+
+En eindelijk, we worden geen nerds meer genoemd!
+
+## #WN10  Vincent Vijn (IBM)
+Eindelijk heeft in het zonovergoten slotervaart wonen zijn voordelen! Voor de weekly nerd van Vincent Vijn mochten we langs bij IBM, wat bij mij om de hoek is. 
+Vincent is oud CMD docent en tegenwoordig bij IBM werkzaam als UX consultant. IBM is niet bepaald het meeste hippe bedrijf in de branche, maar juist daardoor erg interessant om binnnen te kijken.
+IBM lijkt zich altijd een beetje afzijdig te houden van de buitenwereld. Geen pingpong tafels, nespresso-machines en vergaderzalen die 'Steve Jobs' heten. 
+
+In plaats daarvan bouwen ze solide software die over de hele wereld gebruikt wordt, en zijn ze bezig met Watson, de super computer die naar spreektaal kan luisteren, en antwoord kan geven op de meest vergezochte vragen.
+
+## #WN11 Jeremy Keith (Clearleft)
+De allerlaatste weekly nerd was tijdens de ICONS meet-up, in de medialounge. Jeremy Keith vertelde over oude websites, en het feit dat op het internet veel content verloren gaat. We moeten goed omgaan met de data van de gebruikers, en er ook voor de gebruikers moeten zijn als de dienst stopt. 
+
+GeoCities bijvoorbeeld, was een dienst waar gebruikers over de hele wereld content creeerde. Toen GeoCities er mee stopte, ging dit allemaal verloren. Ik moest direct denken aan _The Circle_, van Dave Eggers, waarbij het als een zonde wordt gezien als je pen en papier gebruikt, omdat er dan data verloren gaat die nooit gedeeld kan worden. 
+
+Of Jeremy Keith net zo ver gaat als in _The Circle_ betwijfel ik, maar het is zeker belangrijk om aan je gebruikers te denken.
 

@@ -1,3 +1,8 @@
+##Artikelen
+* [Meteor routing transitions](https://github.com/roosness/weeklyNerds/tree/master/artikel1)
+* [Maintainable CSS](https://github.com/roosness/weeklyNerds/tree/master/artikel2)
+* [De 5 dingen waar ik het meeste van heb geleerd tijdens everything web](https://github.com/roosness/weeklyNerds/tree/master/artikel3)
+
 # Weekly Nerds
 
 ## #WN1: Drububu

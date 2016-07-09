@@ -92,13 +92,4 @@ naar:
 Ik hoop dan ook een stage te vinden die een combinatie van front end en ux doet, met een neiging naar motion design. 
 
 ## #5 Semantics are everything
-Dat semantiek belangrijk was is natuurlijk vanuit de P er al ingepepert. Maar sinds het gastcoll
-1. basketbal
-
-3. discussies
-4. meningen
-5. real time
-6. this
-7. console.table
-8. screenreaders
-
+Dat semantiek belangrijk was is natuurlijk vanuit de P er al ingepepert. Maar sinds het gastcollege van Bram Duvigneau tijdens het vak Browser technologies is het kwartje voor mij echt gevallen. Om iemand te horen spreken die zelf niet alleen in het werkveld werkt, maar ook dagelijks gebruik maakt van screenreaders en andere hulpmiddelen, is erg inspirerend. Daarnaast heb ik gemerkt dat het het van te voren goed is om na te denken over de complete structuur van je product. Hier komt ook de Weekly Nerd van Marrije Schaake weer aan te pas. Hoewel elke student er misschien niet aan wilt toegeven, planning is toch echt alles...
